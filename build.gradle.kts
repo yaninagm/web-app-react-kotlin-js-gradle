@@ -36,4 +36,9 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core-common:1.3.5")
 }
 
+// Heroku Deployment (chapter 9)
+tasks.register("stage") {
+    dependsOn("build")
+}
+
 kotlin.target.browser { }
