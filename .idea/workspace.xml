@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="edbaeea8-0ddc-46f1-aabf-151e6503a878" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/App.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/App.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/VideoPlayer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/VideoPlayer.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="confexplorer" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="confexplorer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="confexplorer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="confexplorer" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="kotlin browser" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="confexplorer" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k7Khy33IEStnoSlupfug3UTsLG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RunManager" selected="Gradle.web-app-react-kotlin-js-gradle [browserRun]">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="web-app-react-kotlin-js-gradle [browserDevelopmentRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--continue" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="browserDevelopmentRun" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="web-app-react-kotlin-js-gradle [browserRun]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="browserRun" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="web-app-react-kotlin-js-gradle [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.web-app-react-kotlin-js-gradle [browserRun]" />
+        <item itemvalue="Gradle.web-app-react-kotlin-js-gradle [build]" />
+        <item itemvalue="Gradle.web-app-react-kotlin-js-gradle [browserDevelopmentRun]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="edbaeea8-0ddc-46f1-aabf-151e6503a878" name="Default Changelist" comment="" />
+      <created>1605046312942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605046312942</updated>
+      <workItem from="1605046313999" duration="1128000" />
+      <workItem from="1605123796337" duration="21000" />
+      <workItem from="1605123848570" duration="1324000" />
+      <workItem from="1605131805094" duration="1517000" />
+      <workItem from="1606050722802" duration="7519000" />
+      <workItem from="1606334675367" duration="2570000" />
+      <workItem from="1606600284546" duration="3686000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="143" y="-1097" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605132131235">
+      <screen x="-398" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="143" y="-1097" key="#com.intellij.execution.impl.EditConfigurationsDialog/-398.-1417.2560.1417/0.23.1792.1013@-398.-1417.2560.1417" timestamp="1605132131235" />
+    <state x="379" y="252" key="#com.intellij.execution.impl.EditConfigurationsDialog/-398.-1417.2560.1417/0.23.1792.1013@0.23.1792.1013" timestamp="1605046867645" />
+    <state x="402" y="-1194" key="CommitChangelistDialog2" timestamp="1605132419878">
+      <screen x="-398" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="402" y="-1194" key="CommitChangelistDialog2/-398.-1417.2560.1417/0.23.1792.1013@-398.-1417.2560.1417" timestamp="1605132419878" />
+    <state width="1750" height="406" key="GridCell.Tab.0.bottom" timestamp="1606686197511">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="2518" height="406" key="GridCell.Tab.0.bottom/-398.-1417.2560.1417/0.23.1792.1013@-398.-1417.2560.1417" timestamp="1606603009957" />
+    <state width="1750" height="274" key="GridCell.Tab.0.bottom/-398.-1417.2560.1417/0.23.1792.1013@0.23.1792.1013" timestamp="1606600739052" />
+    <state width="1750" height="406" key="GridCell.Tab.0.bottom/0.23.1792.1013@0.23.1792.1013" timestamp="1606686197511" />
+    <state width="1750" height="406" key="GridCell.Tab.0.center" timestamp="1606686197510">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="2518" height="406" key="GridCell.Tab.0.center/-398.-1417.2560.1417/0.23.1792.1013@-398.-1417.2560.1417" timestamp="1606603009956" />
+    <state width="1750" height="274" key="GridCell.Tab.0.center/-398.-1417.2560.1417/0.23.1792.1013@0.23.1792.1013" timestamp="1606600739051" />
+    <state width="1750" height="406" key="GridCell.Tab.0.center/0.23.1792.1013@0.23.1792.1013" timestamp="1606686197510" />
+    <state width="1750" height="406" key="GridCell.Tab.0.left" timestamp="1606686197509">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="2518" height="406" key="GridCell.Tab.0.left/-398.-1417.2560.1417/0.23.1792.1013@-398.-1417.2560.1417" timestamp="1606603009955" />
+    <state width="1750" height="274" key="GridCell.Tab.0.left/-398.-1417.2560.1417/0.23.1792.1013@0.23.1792.1013" timestamp="1606600739050" />
+    <state width="1750" height="406" key="GridCell.Tab.0.left/0.23.1792.1013@0.23.1792.1013" timestamp="1606686197509" />
+    <state width="1750" height="406" key="GridCell.Tab.0.right" timestamp="1606686197511">
+      <screen x="0" y="23" width="1792" height="1013" />
+    </state>
+    <state width="2518" height="406" key="GridCell.Tab.0.right/-398.-1417.2560.1417/0.23.1792.1013@-398.-1417.2560.1417" timestamp="1606603009956" />
+    <state width="1750" height="274" key="GridCell.Tab.0.right/-398.-1417.2560.1417/0.23.1792.1013@0.23.1792.1013" timestamp="1606600739051" />
+    <state width="1750" height="406" key="GridCell.Tab.0.right/0.23.1792.1013@0.23.1792.1013" timestamp="1606686197511" />
+    <state x="313" y="-1139" key="SettingsEditor" timestamp="1605131905291">
+      <screen x="-398" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="313" y="-1139" key="SettingsEditor/-398.-1417.2560.1417/0.23.1792.1013@-398.-1417.2560.1417" timestamp="1605131905291" />
+    <state x="511" y="-1023" width="586" height="522" key="find.popup" timestamp="1606602842930">
+      <screen x="-398" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="511" y="-1023" width="586" height="522" key="find.popup/-398.-1417.2560.1417/0.23.1792.1013@-398.-1417.2560.1417" timestamp="1606602842930" />
+    <state x="636" y="305" width="574" height="490" key="find.popup/-398.-1417.2560.1417/0.23.1792.1013@0.23.1792.1013" timestamp="1606600823799" />
+    <state x="636" y="305" width="568" height="490" key="find.popup/0.23.1792.1013@0.23.1792.1013" timestamp="1606081161708" />
+    <state x="469" y="-1127" width="670" height="676" key="search.everywhere.popup" timestamp="1606601143479">
+      <screen x="-398" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="469" y="-1127" width="670" height="676" key="search.everywhere.popup/-398.-1417.2560.1417/0.23.1792.1013@-398.-1417.2560.1417" timestamp="1606601143479" />
+    <state x="607" y="230" width="670" height="484" key="search.everywhere.popup/-398.-1417.2560.1417/0.23.1792.1013@0.23.1792.1013" timestamp="1606600854719" />
+    <state x="607" y="230" width="670" height="484" key="search.everywhere.popup/0.23.1792.1013@0.23.1792.1013" timestamp="1606071096707" />
+  </component>
+</project>
