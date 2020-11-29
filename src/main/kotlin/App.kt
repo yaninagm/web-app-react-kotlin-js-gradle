@@ -1,21 +1,20 @@
+import kotlinx.browser.window
 import kotlinx.coroutines.async
-import kotlinx.css.*
 import react.*
 import react.dom.*
-import styled.css
-import styled.styledDiv
-import kotlin.browser.window
 import kotlinx.coroutines.*
 
 suspend fun fetchVideo(id: Int): Video =
-    window.fetch("https://my-json-server.typicode.com/kotlin-hands-on/kotlinconf-json/videos/$id")
+    //window.fetch("https://my-json-server.typicode.com/kotlin-hands-on/kotlinconf-json/videos/$id")
+
+    window.fetch("https://cors-anywhere.herokuapp.com/" + "https://real-customer.herokuapp.com/qrByProduct/$id")
         .await()
         .json()
         .await()
         .unsafeCast<Video>()
 
 suspend fun fetchVideos(): List<Video> = coroutineScope {
-    (1..25).map { id ->
+    (1..5).map { id ->
         async {
             fetchVideo(id)
         }
@@ -49,22 +48,18 @@ class App : RComponent<RProps, AppState>() {
         div {
             h3 {
                 +"Videos to watch"
+
+
+            }
+
+            img {
+                attrs {
+                    src = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=" +
+                        "https://www.remax.com.ar/Terreno-Venta-MAIPU-Maipu-Mendoza-_420921063-16"
+                }
             }
             videoList {
                 videos = state.unwatchedVideos
-                selectedVideo = state.currentVideo
-                onSelectVideo = { video ->
-                    setState {
-                        currentVideo = video
-                    }
-                }
-            }
-
-            h3 {
-                +"Videos watched"
-            }
-            videoList {
-                videos = state.watchedVideos
                 selectedVideo = state.currentVideo
                 onSelectVideo = { video ->
                     setState {

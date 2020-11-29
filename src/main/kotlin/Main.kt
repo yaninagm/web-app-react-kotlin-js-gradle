@@ -1,9 +1,18 @@
-import react.dom.*
 import kotlinx.browser.document
-import kotlinx.css.*
-import styled.*
+import react.dom.render
 
-data class Video(val id: Int, val title: String, val speaker: String, val videoUrl: String)
+
+data class Video(
+    val id: Int,
+    val name: String,
+    val urlQr: String,
+    val dinamicUrl: String,
+    val dateCreated: String,
+    val descripction: String,
+    val videoUrl: String,
+    val title: String,
+    val speaker: String
+)
 
 fun main() {
     render(document.getElementById("root")) {

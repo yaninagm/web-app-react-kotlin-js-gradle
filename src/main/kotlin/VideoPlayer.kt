@@ -19,7 +19,19 @@ class VideoPlayer(props: VideoPlayerProps) : RComponent<VideoPlayerProps, RState
                 right = 10.px
             }
             h3 {
+                +"${props.video.id}"
+            }
+            h3 {
                 +"${props.video.speaker}: ${props.video.title}"
+            }
+            h3 {
+                +"${props.video.name}"
+            }
+            img {
+                attrs {
+                    src = "https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=" +
+                        props.video.dinamicUrl
+                }
             }
             styledButton {
                 css {
@@ -43,7 +55,7 @@ class VideoPlayer(props: VideoPlayerProps) : RComponent<VideoPlayerProps, RState
                     marginBottom = 10.px
                 }
                 emailShareButton {
-                    attrs.url = props.video.videoUrl
+                    attrs.url = props.video.dinamicUrl
                     emailIcon {
                         attrs.size = 32
                         attrs.round = true
